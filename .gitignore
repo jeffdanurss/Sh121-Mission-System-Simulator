@@ -1,0 +1,8 @@
+# Ejecutables (Binarios)
+sh121_sim
+
+# Archivos de objeto
+*.o
+
+# Archivos temporales o de sistema
+.DS_Store
